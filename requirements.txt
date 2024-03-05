@@ -11,3 +11,4 @@ mkdocs-redirects
 openpyxl
 pillow
 mkdocs-google-translate
+mkdocs-git-committers-plugin-2
