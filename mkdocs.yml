@@ -1,6 +1,6 @@
 site_name: Azure Sevilla
 site_description: A blog about Azure, DevOps and other stuff
-site_author: Rafael Fernández
+site_author: Rafael Fernández and Juan Ignacio Oller
 site_url: https://azuresevilla.github.io
 
 theme: 
@@ -91,9 +91,12 @@ plugins:
       zoomable: true
       draggable: true
       skip_classes:
-        - skip-lightbox
-    #- meta in insiders, review in next release
+        - skip-lightbox  
+  - git-committers:
+      repository: AzureSevilla/azuresevilla.github.io
+      branch: main
   - social
+    
 
 markdown_extensions:
   - admonition
