@@ -22,13 +22,15 @@ Puedes participar en la comunidad de Azure Sevilla de diferentes formas:
 2. **Organizando eventos**: Si tienes conocimientos sobre Azure y deseas compartirlos, puedes organizar un evento en Sevilla.
 3. **Patrocinando eventos**: Si representas una empresa o entidad interesada en apoyar la comunidad, puedes patrocinar uno o varios eventos locales.
 
+Únete a nuestro grupo de [LinkedIn](https://www.linkedin.com/groups/8162773/) para estar al tanto de todas las novedades y eventos de la comunidad.
+
 # ¿ Cómo puedes contactar con nosotros?
 
 Puedes contactar con nosotros a través de nuestras redes sociales o enviándonos un correo electrónico a [az_sevilla@outlook.com](mailto:az_sevilla@outlook.com).
 
 # ¿ Cómo puedes seguirnos?
 
-Por ahora puedes seguirnos a través de nuestro blog. 
+Por ahora puedes seguirnos a través de nuestro blog en esta misma wev. 
 
 
 
