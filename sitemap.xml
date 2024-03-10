@@ -2,47 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://azuresevilla.github.io/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <lastmod>2024-03-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://azuresevilla.github.io/contributors/</loc>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azuresevilla.github.io/organizers/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azuresevilla.github.io/sponsors/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azuresevilla.github.io/blog/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azuresevilla.github.io/blog/tags/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://azuresevilla.github.io/blog/2024/03/01/global-azure-2024-sevilla/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <loc>https://azuresevilla.github.io/blog/2024/03/01/global-azure-sevilla-2024/</loc>
+         <lastmod>2024-03-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://azuresevilla.github.io/blog/2024/03/10/global-azure-sevilla-2024-canal-de-youtube/</loc>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azuresevilla.github.io/blog/2024/03/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://azuresevilla.github.io/blog/category/global-azure/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <loc>https://azuresevilla.github.io/blog/category/global-azure-sevilla-2024/</loc>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://azuresevilla.github.io/blog/tags/</loc>
-         <lastmod>2024-03-05</lastmod>
+         <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
