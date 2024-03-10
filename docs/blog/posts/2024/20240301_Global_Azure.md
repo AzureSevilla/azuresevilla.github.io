@@ -4,13 +4,10 @@ date: 2024-03-01
 authors:
   - rfernandezdo
 categories:
-  - Global Azure
-tags:
-  - Azure Policy
-  - EPAC  
+  - Global Azure Sevilla 2024
 ---
 
-# Global Azure 2024 Sevilla
+# Global Azure Sevilla 2024
 
 Global Azure 2024 es un evento mundial dedicado a todos los usuarios que desean conocer o profundizar sus conocimientos de **Azure** para el desarrollo y administración de soluciones de aplicaciones en la nube. La próxima edición de este gran evento se llevará a cabo los días **18, 19 y 20 de abril de 2024**.
 
