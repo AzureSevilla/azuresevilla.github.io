@@ -1,4 +1,4 @@
-# Organizers
+# Organizadores
 
 ## Juan Ignacio Oller
 
@@ -10,8 +10,6 @@
 
 ![Rafael Fernández](assets/rafa.png){: style="width:250px;border-radius: 50%;"}
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/rafaelfernandezd/)
-
-
 
 
 ## Contacto
