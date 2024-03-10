@@ -140,8 +140,9 @@ nav:
     - blog/index.md
     - blog/tags.md
   - Comunidad: index.md
-  - Sponsors: sponsors.md
   - Organizadores: organizers.md
+  - Colaboradores: contributors.md
+  - Sponsors: sponsors.md
   
 
 extra_javascript:
