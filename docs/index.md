@@ -30,7 +30,7 @@ Puedes contactar con nosotros a través de nuestras redes sociales o enviándono
 
 # ¿ Cómo puedes seguirnos?
 
-Por ahora puedes seguirnos a través de nuestro blog en esta misma wev. 
+Por ahora puedes seguirnos a través de nuestro blog en esta misma web.
 
 
 
