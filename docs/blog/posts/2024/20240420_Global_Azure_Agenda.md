@@ -10,7 +10,7 @@ categories:
 
 # Agenda Global Azure Sevilla 2024 
 
-Os presentamos las charlas confirmadas del evento Global Azure Sevilla 2024 que tenemos por ahora:
+Charlas confirmadas del evento Global Azure Sevilla 2024:
 
 | Title | Speakers | Track | Level | 
 | --- | --- | --- | --- |
