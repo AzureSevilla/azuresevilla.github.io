@@ -91,11 +91,11 @@ plugins:
       zoomable: true
       draggable: true
       skip_classes:
-        - skip-lightbox  
-  - git-committers:
-      repository: AzureSevilla/azuresevilla.github.io
-      branch: main
-  - social
+        - skip-lightbox
+  #- social
+  #- git-committers:
+  #    repository: AzureSevilla/azuresevilla.github.io
+  #    branch: main
     
 
 markdown_extensions:
