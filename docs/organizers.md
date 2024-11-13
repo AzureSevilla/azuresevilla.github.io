@@ -1,12 +1,27 @@
 # Organizadores
 
-## Juan Ignacio Oller
+## 2025
+
+### Juan Ignacio Oller
 
 ![Juan Ignacio](assets/nacho.png){: style="width:250px;border-radius: 50%;"}
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jioller)
 
 
-## Rafael Fernández 
+### Rafael Fernández 
+
+![Rafael Fernández](assets/rafa.png){: style="width:250px;border-radius: 50%;"}
+[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/rafaelfernandezd/)
+
+## 2024
+
+### Juan Ignacio Oller
+
+![Juan Ignacio](assets/nacho.png){: style="width:250px;border-radius: 50%;"}
+[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jioller)
+
+
+### Rafael Fernández 
 
 ![Rafael Fernández](assets/rafa.png){: style="width:250px;border-radius: 50%;"}
 [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/rafaelfernandezd/)

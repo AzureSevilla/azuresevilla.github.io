@@ -3,7 +3,9 @@ site_description: A blog about Azure, DevOps and other stuff
 site_author: Rafael Fernández and Juan Ignacio Oller
 site_url: https://azuresevilla.github.io
 
-theme: 
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
   palette:
     - scheme: default
