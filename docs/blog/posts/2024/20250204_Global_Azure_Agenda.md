@@ -9,7 +9,7 @@ categories:
 
 # Agenda Global Azure Sevilla 2025
 
-Charlas confirmadas del evento Global Azure Sevilla 2024 y su agenda:
+Charlas confirmadas del evento Global Azure Sevilla 2025 y su agenda:
 
 | Día Hora de inicio | Title | Speakers | Track | Level |
 |---|---|---|---|---|
